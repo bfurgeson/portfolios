@@ -9,8 +9,8 @@ The Superstore dataset from Tableau public contains information about products, 
 
 Tableau is used to create a dashboard. The dashboard is segmented into State, Regional, Category, Sub-Category, and Brand level data by Gross Margin Profit to identify negatively profitable performing segments. Further, tooltips including top and bottom cities, products, etc as well as sales trends are included so area managers and category managers have better drill down visibility into the data. 
 
-<img src="Superstore.png?raw=true"/>
-<img src="Screenshot 2023-02-28 at 12.04.12 PM.png?raw=true"/>
+<img src="images/Superstore.png?raw=true"/>
+<img src="images/Screenshot 2023-02-28 at 12.04.12 PM.png?raw=true"/>
 
 ---
 [TRANSPORTATION - Cyclistic Ride Share User Behaviour Analysis (R Markdown, ggplot2, tidyverse)](https://www.notion.so/brodiefurgeson/TRANSPORTATION-Cyclistic-Ride-Share-User-Behaviour-Analysis-cc753001b1f447bbb4dc19b9c796fac0)
