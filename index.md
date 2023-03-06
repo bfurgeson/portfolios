@@ -34,10 +34,14 @@ This study was able to answer some descriptive questions (when, where, what, and
 <img src="images/Cyclistic 4.png?raw=true"/>
 
 ---
-[GOOGLE ANALYTICS - Google Merchandise Store Analytics Dashboard (Tableau, Big Query, SQL](https://www.notion.so/brodiefurgeson/GOOGLE-ANALYTICS-Google-Merchandise-Store-Analytics-Dashboard-dc38c9e7a72045628320579f48e61515)
-The Google Merchandise Store (GMS) is an online platform that sells branded merchandise of the tech giant, Google. The purpose of this case is to create an web analytics dashboard showing selected monthly KPIs related to web traffic, session duration, bounce rate, and others to analyze the performance of the webstore in it’s first year of operation.
+[GOOGLE ANALYTICS - Google Merchandise Store Analytics Dashboard (Tableau, Big Query, SQL)](https://www.notion.so/brodiefurgeson/GOOGLE-ANALYTICS-Google-Merchandise-Store-Analytics-Dashboard-dc38c9e7a72045628320579f48e61515)
+
+The Google Merchandise Store (GMS) is an online platform that sells branded merchandise of the tech giant, Google. 
 
 The sample dataset contains obfuscated Google Analytics 360 data from the Google Merchandise Store, a real ecommerce store.
+
+The purpose of this case is to create an web analytics dashboard showing selected monthly KPIs related to web traffic, session duration, bounce rate, and others to analyze the performance of the webstore in it’s first year of operation.
+
 
 
 <img src="images/Google Merch Store Dashboard.png?raw=true"/>
